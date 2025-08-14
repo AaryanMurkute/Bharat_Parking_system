@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123592320281",
+    "project_id": "bharatparkingsystem745",
+    "storage_bucket": "bharatparkingsystem745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123592320281:android:d772dc3b9b3cc6f2959188",
+        "android_client_info": {
+          "package_name": "com.example.bharat_parking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVWEVv_lEnmuKZo1JHnrHvCh4KQcTbFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

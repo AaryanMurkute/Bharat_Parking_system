@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BharatParking</string>
+    <!-- firebase/google auto-populates default_web_client_id from google-services.json -->
+    <!-- <string name="default_web_client_id">YOUR_CLIENT_ID.apps.googleusercontent.com</string> -->
+</resources>
